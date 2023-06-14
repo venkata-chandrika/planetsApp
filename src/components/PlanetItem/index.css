@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 50%;
+}
+.name {
+  color: #f8fafc;
+}
+.description {
+  color: #f1f5f9;
+  width: 800px;
+  text-align: center;
+}
